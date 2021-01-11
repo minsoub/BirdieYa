@@ -1,0 +1,36 @@
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\bin\BirdieYa.dll.config
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\bin\BirdieYa.dll
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\bin\BirdieYa.pdb
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\obj\Debug\BirdieYa.csprojResolveAssemblyReference.cache
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\obj\Debug\BirdieYa.dll
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\obj\Debug\BirdieYa.pdb
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\bin\GSFramework.Common.dll
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\bin\GSFramework.Data.dll
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\bin\Socket.dll
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\bin\Socket.pdb
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\bin\GSFramework.Common.pdb
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\BirdieYa\bin\GSFramework.Data.pdb
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\bin\BirdieYa.dll.config
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\bin\BirdieYa.dll
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\bin\BirdieYa.pdb
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\bin\GSFramework.Common.dll
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\bin\GSFramework.Data.dll
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\bin\Socket.dll
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\bin\Socket.pdb
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\bin\GSFramework.Common.pdb
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\bin\GSFramework.Data.pdb
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\obj\Debug\BirdieYa.csprojResolveAssemblyReference.cache
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\obj\Debug\BirdieYa.dll
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\BirdieYa\obj\Debug\BirdieYa.pdb
+F:\VisualPjt\BirdieYa\BirdieYa\bin\BirdieYa.dll.config
+F:\VisualPjt\BirdieYa\BirdieYa\bin\BirdieYa.dll
+F:\VisualPjt\BirdieYa\BirdieYa\bin\BirdieYa.pdb
+F:\VisualPjt\BirdieYa\BirdieYa\bin\GSFramework.Common.dll
+F:\VisualPjt\BirdieYa\BirdieYa\bin\GSFramework.Data.dll
+F:\VisualPjt\BirdieYa\BirdieYa\bin\Socket.dll
+F:\VisualPjt\BirdieYa\BirdieYa\bin\Socket.pdb
+F:\VisualPjt\BirdieYa\BirdieYa\bin\GSFramework.Common.pdb
+F:\VisualPjt\BirdieYa\BirdieYa\bin\GSFramework.Data.pdb
+F:\VisualPjt\BirdieYa\BirdieYa\obj\Debug\BirdieYa.csprojResolveAssemblyReference.cache
+F:\VisualPjt\BirdieYa\BirdieYa\obj\Debug\BirdieYa.dll
+F:\VisualPjt\BirdieYa\BirdieYa\obj\Debug\BirdieYa.pdb

@@ -1,0 +1,60 @@
+C:\Project\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+C:\Project\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+C:\Project\SwingSaver2\SSFramework.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+C:\Project\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+G:\백업자료\백업자료_20131204\소스\Project\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+G:\백업자료\백업자료_20131204\소스\Project\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+G:\백업자료\백업자료_20131204\소스\Project\SwingSaver2\SSFramework.Data\obj\Debug\ResolveAssemblyReference.cache
+G:\백업자료\백업자료_20131204\소스\Project\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+G:\백업자료\백업자료_20131204\소스\Project\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+G:\작업중 소스\Project\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+G:\작업중 소스\Project\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+G:\작업중 소스\Project\SwingSaver2\SSFramework.Data\obj\Debug\ResolveAssemblyReference.cache
+G:\작업중 소스\Project\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+G:\작업중 소스\Project\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+F:\작업중 소스\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+F:\작업중 소스\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+F:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\ResolveAssemblyReference.cache
+F:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+F:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+G:\작업중 소스\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+G:\작업중 소스\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+G:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\ResolveAssemblyReference.cache
+G:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+G:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+I:\작업중 소스\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+I:\작업중 소스\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+I:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\ResolveAssemblyReference.cache
+I:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+I:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+H:\작업중 소스\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+H:\작업중 소스\SwingSaver2\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+H:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\ResolveAssemblyReference.cache
+H:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+H:\작업중 소스\SwingSaver2\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+C:\Project\triangle\TGPinInfo\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+C:\Project\triangle\TGPinInfo\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+C:\Project\triangle\TGPinInfo\SSFramework.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\triangle\TGPinInfo\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+C:\Project\triangle\TGPinInfo\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+D:\자료모음\백업자료\20190724\Project\triangle\TGPinInfo\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+D:\자료모음\백업자료\20190724\Project\triangle\TGPinInfo\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+D:\자료모음\백업자료\20190724\Project\triangle\TGPinInfo\SSFramework.Data\obj\Debug\SSFramework.Data.csprojResolveAssemblyReference.cache
+D:\자료모음\백업자료\20190724\Project\triangle\TGPinInfo\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+D:\자료모음\백업자료\20190724\Project\triangle\TGPinInfo\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\SSFramework.Data\obj\Debug\SSFramework.Data.csprojResolveAssemblyReference.cache
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\SSFramework.Data\obj\Debug\SSFramework.Data.csprojResolveAssemblyReference.cache
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+F:\VisualPjt\BirdieYa\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+F:\VisualPjt\BirdieYa\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+F:\VisualPjt\BirdieYa\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+F:\VisualPjt\BirdieYa\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
+F:\VisualPjt\BirdieYa\SSFramework.Data\bin\Debug\Oracle.ManagedDataAccess.dll

@@ -1,0 +1,14 @@
+C:\Project\GSEMS\GSFramework.Common\bin\Debug\GSFramework.Common.dll
+C:\Project\GSEMS\GSFramework.Common\bin\Debug\GSFramework.Common.pdb
+C:\Project\GSEMS\GSFramework.Common\bin\Debug\GSFramework.Data.dll
+C:\Project\GSEMS\GSFramework.Common\bin\Debug\GSFramework.Data.pdb
+C:\Project\GSEMS\GSFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\GSEMS\GSFramework.Common\obj\Debug\GSFramework.Common.dll
+C:\Project\GSEMS\GSFramework.Common\obj\Debug\GSFramework.Common.pdb
+C:\Project\GSFramework.Common\bin\Debug\GSFramework.Common.dll
+C:\Project\GSFramework.Common\bin\Debug\GSFramework.Common.pdb
+C:\Project\GSFramework.Common\bin\Debug\GSFramework.Data.dll
+C:\Project\GSFramework.Common\bin\Debug\GSFramework.Data.pdb
+C:\Project\GSFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\GSFramework.Common\obj\Debug\GSFramework.Common.dll
+C:\Project\GSFramework.Common\obj\Debug\GSFramework.Common.pdb

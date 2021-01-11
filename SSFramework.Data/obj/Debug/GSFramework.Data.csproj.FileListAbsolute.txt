@@ -1,0 +1,10 @@
+C:\Project\GSEMS\GSFramework.Data\bin\Debug\GSFramework.Data.dll
+C:\Project\GSEMS\GSFramework.Data\bin\Debug\GSFramework.Data.pdb
+C:\Project\GSEMS\GSFramework.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\GSEMS\GSFramework.Data\obj\Debug\GSFramework.Data.dll
+C:\Project\GSEMS\GSFramework.Data\obj\Debug\GSFramework.Data.pdb
+C:\Project\GSFramework.Data\bin\Debug\GSFramework.Data.dll
+C:\Project\GSFramework.Data\bin\Debug\GSFramework.Data.pdb
+C:\Project\GSFramework.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\GSFramework.Data\obj\Debug\GSFramework.Data.dll
+C:\Project\GSFramework.Data\obj\Debug\GSFramework.Data.pdb

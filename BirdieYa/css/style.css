@@ -1,0 +1,102 @@
+
+/*로그인*/
+.img_bg{background-image: url(../images/img-bg.png);background-size:cover; }
+.login-wrap{text-align: center;padding-top: 30%;}
+.login-wrap .logo-img{width: 60%;}
+.login-box{background-color: #fff;border-radius:20px 20px 0 0;padding: 30px 0 0;margin: 15px 40px;}
+.login-box h4{margin: 0;}
+.input-log{padding:28px 20px 20px 20px;}
+.input-log input{height: 44px;width: 93%;margin-bottom: 15px; padding-left: 5%;}
+
+
+/*메인*/
+.main-wrap{padding: 15px;padding: 22% 15px 0 15px;}
+.main-wrap .logo-img{width:100px;margin-left: 15px;}
+.main-wrap h1{color: #fff;font-size: 1.8rem;line-height: 1.2;font-weight: 200;margin: 25px 0 15% 15px;}
+.right-top{position: absolute; right: 40px;top: 40px;}
+.right-top img{width: 50px;}
+.main-wrap .main-box{background-color: #fff;border-radius:20px; padding: 0;}
+.main-box .fist-box{width: 100%;}
+.main-box .fist-box .left-box{background-color:#ffb10a;color: #fff;display: inline-block; width: 40%;height: 119px;vertical-align: top;float: left;border-radius: 20px 0 0 0;}
+.main-box .fist-box .right-box {background-color:#e9e9e9;display: inline-block;width: 60%;height: 119px;vertical-align: top;float: left;    color: #222; border-radius: 0 20px 0 0;}
+.main-box .second-box{width: 100%;}
+.main-box .second-box .left-box{display: inline-block; width: 60%;height: 230px;float: left; background-image: url(../images/main-box-bg.png);background-size:cover; border-radius: 0 0 0 20px;}
+.main-box .second-box .right-box{display: inline-block; width: 40%;float: left;}
+.main-box .second-box .right-box .up-box{display:block;height: 115px;background-color: #0ac636;color: #fff;}
+.main-box .second-box .right-box .down-box{display:block;height: 115px;background-color: #007569;color: #fff; border-radius: 0 0 20px 0;}
+.main-box  .menu-btn-box{text-align: center;}
+.main-box  .menu-btn-box img{margin-top: 26px;height: 38px;}
+.main-box  .menu-btn-box p{font-size: 1.2rem;margin: 5px 0 0;}
+.second-box .main-logout{color: #ffb10a;border:1px solid;border-radius:30px;padding: 5px 15px;background-color:#fff;font-size: 1rem;margin-left: 30px;}
+.second-box .left-box p{color: #222;font-weight: 600;font-size: 1.2rem;margin: 30px 0 10px 30px;}
+
+
+/*메뉴*/
+.right-top p{color: #fff;font-size: 1rem;margin: 5px 0;}
+.menu-wrap{padding: 30% 10% 0 10%;}
+.menu-wrap h1{color:#ff9727;font-size: 40px;font-weight: 700;}
+.menu-list a{color: #fff;font-size: 1rem;}
+.menu-list ul{padding: 0;}
+.menu-list ul li{list-style: none;border-bottom: 1px solid #fff;padding: 20px;font-size: 1.3rem;}
+
+
+
+/*카트관제*/
+.hole-wrap{ margin:65px 0; height: 35px;background-color: #121212; padding: 0 5px 10px 5px; border-radius: 20px;display: flex;width: calc(100%/3);}
+.hole-wrap .hole{width: calc(100%/3);display: inline-block;height: 35px;font-weight: 800;}
+.hole .right-hole{float: right;}
+.hole .mid-hole{margin: 0 auto;}
+.hole .left-hole{float:left; }
+.cart-hole-wrap{margin-top: 80px;display: flex;}
+.hole .par-3{background-image: url(../images/par3-hole.png);background-size:cover; width:69px; height: 35px;line-height: 2.8;text-align: center;position: relative;}
+.hole .par-4{background-image: url(../images/par4-hole.png);background-size:cover;width: 89px; height: 35px;line-height: 2.8;text-align: center;position: relative;}
+.hole .par-5{background-image: url(../images/par5-hole.png);background-size:cover;width:116px; height:  35px;line-height: 2.8;text-align: center;position: relative;}
+.car-wrap{position: absolute;bottom: 30px;width: 100%;}
+.car-wrap .car-first, .car-wrap .car-mid-1, .car-wrap .car-mid-2,.car-wrap .car-last{display: inline-block;width: 20px;position: absolute;  bottom: 0;}
+.car-wrap .car-first{left: 0;}
+.car-wrap .car-last{right: 0;}
+.par-4 .car-wrap .car-mid-1{left: 33px;}
+.par-5 .car-wrap .car-mid-1{left: 33px;}
+.par-5 .car-wrap .car-mid-2{left: 65px;}
+.hole .car-no{ background-size: cover; width: 23px;height: 9px;display:block; text-align: center; padding: 2px 2px 5px 0;line-height: 1;font-size: 11px;margin: 1px;}
+.hole .car-1{background-image: url(../images/cart-01.png);}
+.hole .car-2{background-image: url(../images/cart-02.png);}
+.hole .car-3{background-image: url(../images/cart-03.png);color: #fff;font-weight: 100;}
+.hole .car-4{background-image: url(../images/cart-04.png);}
+.hole .car-5{background-image: url(../images/cart-05.png);}
+.hole .car-6{background-image: url(../images/cart-06.png);}
+.hole .car-7{background-image: url(../images/cart-07.png);}
+.hole .car-8{background-image: url(../images/cart-08.png);}
+.hole .car-9{background-image: url(../images/cart-09.png);}
+.car-info-wrap{width: 100%; display: flex;}
+.car-info{width: calc(100%/9);color: #fff;text-align: center;}
+.car-info .round{width: 15px;height: 15px;border-radius: 20px;    margin: 0 auto;}
+.car-info p{margin: 5px 0;font-size: 0.8rem;font-weight: 200;}
+.car-info .car-round-1{background-color: #ffd307;}
+.car-info .car-round-2{background-color: #ff8921;}
+.car-info .car-round-3{background-color: #000000;border: 1px solid;}
+.car-info .car-round-4{background-color: #ff4545;}
+.car-info .car-round-5{background-color: #ff83f2;}
+.car-info .car-round-6{background-color: #7eccff;}
+.car-info .car-round-7{background-color: #83ffe6;}
+.car-info .car-round-8{background-color: #b083ff;}
+.car-info .car-round-9{background-color: #5987ff;}
+.car-wrap a{color:#222222;}
+.info-box{background-color: #1b1b1b;position: absolute; width: 100%;  bottom: 66px;text-align: center;}
+.info-box .info-b-tit{background-color: #fff;width: 100%;font-size: 1.3rem;padding: 20px 0;font-weight: 600;}
+.info-box table{color: #fff;border-collapse: collapse;}
+.info-box table td{border: 1px solid #777;padding: 20px 0;background-color: #212121;}
+/*세로일때 홀 나누기*/
+@media (min-width: 250px) and (max-width: 1050px){
+    .hole-wrap{width: 100%;}    
+    .cart-hole-wrap{display: block;}    
+}
+
+
+/*핀위치*/
+.date-sear{margin-top: 5px;}
+.date-sear input[type="date"]{width: 41%;height: 44px;font-size: 1rem;padding-left: 20px;font-family: "NotoSansKR";}
+.date-sear input:last-child{float: right;}
+
+
+

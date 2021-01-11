@@ -1,0 +1,64 @@
+C:\Project\TGPinInfo\Socket\bin\Debug\Socket.dll
+C:\Project\TGPinInfo\Socket\bin\Debug\Socket.pdb
+C:\Project\TGPinInfo\Socket\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\TGPinInfo\Socket\obj\Debug\Socket.dll
+C:\Project\TGPinInfo\Socket\obj\Debug\Socket.pdb
+G:\백업자료\백업자료_20131204\소스\Project\TGPinInfo\Socket\bin\Debug\Socket.dll
+G:\백업자료\백업자료_20131204\소스\Project\TGPinInfo\Socket\bin\Debug\Socket.pdb
+G:\백업자료\백업자료_20131204\소스\Project\TGPinInfo\Socket\obj\Debug\ResolveAssemblyReference.cache
+G:\백업자료\백업자료_20131204\소스\Project\TGPinInfo\Socket\obj\Debug\Socket.dll
+G:\백업자료\백업자료_20131204\소스\Project\TGPinInfo\Socket\obj\Debug\Socket.pdb
+G:\작업중 소스\Project\TGPinInfo\Socket\bin\Debug\Socket.dll
+G:\작업중 소스\Project\TGPinInfo\Socket\bin\Debug\Socket.pdb
+G:\작업중 소스\Project\TGPinInfo\Socket\obj\Debug\ResolveAssemblyReference.cache
+G:\작업중 소스\Project\TGPinInfo\Socket\obj\Debug\Socket.dll
+G:\작업중 소스\Project\TGPinInfo\Socket\obj\Debug\Socket.pdb
+F:\작업중 소스\TGPinInfo\Socket\bin\Debug\Socket.dll
+F:\작업중 소스\TGPinInfo\Socket\bin\Debug\Socket.pdb
+F:\작업중 소스\TGPinInfo\Socket\obj\Debug\ResolveAssemblyReference.cache
+F:\작업중 소스\TGPinInfo\Socket\obj\Debug\Socket.dll
+F:\작업중 소스\TGPinInfo\Socket\obj\Debug\Socket.pdb
+G:\작업중 소스\TGPinInfo\Socket\bin\Debug\Socket.dll
+G:\작업중 소스\TGPinInfo\Socket\bin\Debug\Socket.pdb
+G:\작업중 소스\TGPinInfo\Socket\obj\Debug\ResolveAssemblyReference.cache
+G:\작업중 소스\TGPinInfo\Socket\obj\Debug\Socket.dll
+G:\작업중 소스\TGPinInfo\Socket\obj\Debug\Socket.pdb
+I:\작업중 소스\TGPinInfo\Socket\bin\Debug\Socket.dll
+I:\작업중 소스\TGPinInfo\Socket\bin\Debug\Socket.pdb
+I:\작업중 소스\TGPinInfo\Socket\obj\Debug\ResolveAssemblyReference.cache
+I:\작업중 소스\TGPinInfo\Socket\obj\Debug\Socket.dll
+I:\작업중 소스\TGPinInfo\Socket\obj\Debug\Socket.pdb
+H:\작업중 소스\TGPinInfo\Socket\bin\Debug\Socket.dll
+H:\작업중 소스\TGPinInfo\Socket\bin\Debug\Socket.pdb
+H:\작업중 소스\TGPinInfo\Socket\obj\Debug\ResolveAssemblyReference.cache
+H:\작업중 소스\TGPinInfo\Socket\obj\Debug\Socket.dll
+H:\작업중 소스\TGPinInfo\Socket\obj\Debug\Socket.pdb
+D:\작업중 소스\TGPinInfo\Socket\bin\Debug\Socket.dll
+D:\작업중 소스\TGPinInfo\Socket\bin\Debug\Socket.pdb
+D:\작업중 소스\TGPinInfo\Socket\obj\Debug\ResolveAssemblyReference.cache
+D:\작업중 소스\TGPinInfo\Socket\obj\Debug\Socket.dll
+D:\작업중 소스\TGPinInfo\Socket\obj\Debug\Socket.pdb
+C:\Project\triangle\TGPinInfo\Socket\bin\Debug\Socket.dll
+C:\Project\triangle\TGPinInfo\Socket\bin\Debug\Socket.pdb
+C:\Project\triangle\TGPinInfo\Socket\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\triangle\TGPinInfo\Socket\obj\Debug\Socket.dll
+C:\Project\triangle\TGPinInfo\Socket\obj\Debug\Socket.pdb
+D:\자료모음\백업자료\20190724\Project\triangle\TGPinInfo\Socket\bin\Debug\Socket.dll
+D:\자료모음\백업자료\20190724\Project\triangle\TGPinInfo\Socket\bin\Debug\Socket.pdb
+D:\자료모음\백업자료\20190724\Project\triangle\TGPinInfo\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+D:\자료모음\백업자료\20190724\Project\triangle\TGPinInfo\Socket\obj\Debug\Socket.dll
+D:\자료모음\백업자료\20190724\Project\triangle\TGPinInfo\Socket\obj\Debug\Socket.pdb
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\Socket\bin\Debug\Socket.dll
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\Socket\bin\Debug\Socket.pdb
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\Socket\obj\Debug\Socket.dll
+D:\작업 파일 정리\Project\트라이앵글\BirdieYa\Socket\obj\Debug\Socket.pdb
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\Socket\bin\Debug\Socket.dll
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\Socket\bin\Debug\Socket.pdb
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\Socket\obj\Debug\Socket.dll
+G:\내 드라이브\04.골프사이트\10.모바일관제\BirdieYa\Socket\obj\Debug\Socket.pdb
+F:\VisualPjt\BirdieYa\Socket\bin\Debug\Socket.dll
+F:\VisualPjt\BirdieYa\Socket\bin\Debug\Socket.pdb
+F:\VisualPjt\BirdieYa\Socket\obj\Debug\Socket.dll
+F:\VisualPjt\BirdieYa\Socket\obj\Debug\Socket.pdb
