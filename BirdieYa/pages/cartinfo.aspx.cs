@@ -15,6 +15,15 @@ using Oracle.ManagedDataAccess.Client;
 
 namespace BirdieYa.pages
 {
+    public class CartInfo
+    {
+        public string cart_no { get; set; }
+        public string cart_type { get; set; }
+        public string caddie_name { get; set; }
+        public string start_time { get; set; }
+        public string member { get; set; }
+    }
+
     public partial class cartinfo : WebBase
     {
         public Common comm = new Common();
@@ -49,9 +58,9 @@ namespace BirdieYa.pages
         /// </summary>
         protected void InitControls()
         {
-            //if (comm.CheckSession()) { Response.Redirect("/login.aspx"); }
+            if (comm.CheckSession()) { Response.Redirect("../index.aspx"); }
 
-            OnSearch();
+            //OnSearch();
         }
 
         /// <summary>
@@ -63,6 +72,7 @@ namespace BirdieYa.pages
         {
             try
             {
+                Console.WriteLine("btnSelCourse_Click called..");
                 OnSearch();
             }
             catch (Exception ex)
@@ -133,9 +143,9 @@ namespace BirdieYa.pages
                 if (row["BLOCK_NO"].ToString() == "4") { sBlock4 += GetCartHtml(row); }
             }
 
-            sBlock1 += "<a href=\"javascript:void(0); javascript:SetSelDetail('1', '2', '3');\" class=\"detail-car\">";
-            sBlock1 += "    <div class=\"car-no car-6\">7</div>";
-            sBlock1 += "</a>";
+            //sBlock1 += "<a href=\"javascript:void(0); javascript:SetSelDetail('1', '2', '3');\" class=\"detail-car\">";
+            //sBlock1 += "    <div class=\"car-no car-6\">7</div>";
+            //sBlock1 += "</a>";
             
             sHtml += string.Format("<div class=\"left-hole par-{0}\">{1}", sPar, sHole);
             sHtml += string.Format("    <div class=\"car-wrap\">");
@@ -175,7 +185,7 @@ namespace BirdieYa.pages
         }
 
         [System.Web.Services.WebMethod]
-        public static ArrayList GetCartDetail(string sCartNo, string sCartType, string sTeamNo)
+        public static CartInfo GetCartDetail(string sCartNo, string sCartType, string sTeamNo)
         {
             ArrayList array = new ArrayList();
             ArrayList arrResult = new ArrayList();
@@ -209,11 +219,11 @@ namespace BirdieYa.pages
                     }
                     else
                     {
-                arrResult.Add(sCartNo);
-                arrResult.Add(sTeamNo);
-                arrResult.Add(string.Empty);
-                arrResult.Add(string.Empty);
-                arrResult.Add(string.Empty);
+                        arrResult.Add(sCartNo);
+                        arrResult.Add(sTeamNo);
+                        arrResult.Add(string.Empty);
+                        arrResult.Add(string.Empty);
+                        arrResult.Add(string.Empty);
                     }
                 }
             }
@@ -225,7 +235,18 @@ namespace BirdieYa.pages
                 arrResult.Add(string.Empty);
                 arrResult.Add(ex.Message);
             }
-            return arrResult;
+
+            CartInfo info = new CartInfo();
+            info.cart_no = arrResult[0].ToString();
+            info.cart_type = arrResult[1].ToString();
+            info.caddie_name = arrResult[2].ToString();
+            info.start_time = arrResult[3].ToString();
+            info.member = arrResult[4].ToString();
+
+            return info;
+            //System.Web.Script.Serialization.JavaScriptSerializer serializer = new System.Web.Script.Serialization.JavaScriptSerializer();
+            //return serializer.Serialize(arrResult);
+            //return arrResult;
         }
 
         protected static string GetCartType(string sCartType)

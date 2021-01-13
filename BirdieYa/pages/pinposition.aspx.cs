@@ -19,12 +19,17 @@ namespace BirdieYa.pages
 {
     public partial class pinposition : WebBase
     {
+        public Common comm = new Common();
+
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!IsPostBack)
-            {
-                SetImage(iCourse.Text, iHole.Text);
-            }
+            if (!IsPostBack) InitControls();
+        }
+        protected void InitControls()
+        {
+            if (comm.CheckSession()) { Response.Redirect("../index.aspx"); }
+
+            SetImage(iCourse.Text, iHole.Text);
         }
         /**
          * 이미지지를 그린다
@@ -92,7 +97,7 @@ namespace BirdieYa.pages
                 int iXPos = Convert.ToInt32(iOriginXPos * Math.Round((dWidth / 280) - 0.04, 1));
                 int iYPos = Convert.ToInt32(iOriginYPos * Math.Round((dWidth / 280) - 0.04, 1));
 
-                hdnPosX.Value = (iXPos + 0).ToString();
+                hdnPosX.Value = (iXPos - 0).ToString();
                 hdnPosY.Value = (iYPos + 110).ToString();
             }
             else

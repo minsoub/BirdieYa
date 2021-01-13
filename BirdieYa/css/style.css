@@ -59,15 +59,15 @@
 .par-5 .car-wrap .car-mid-1{left: 33px;}
 .par-5 .car-wrap .car-mid-2{left: 65px;}
 .hole .car-no{ background-size: cover; width: 23px;height: 9px;display:block; text-align: center; padding: 2px 2px 5px 0;line-height: 1;font-size: 11px;margin: 1px;}
-.hole .car-1{background-image: url(../images/cart-01.png);}
-.hole .car-2{background-image: url(../images/cart-02.png);}
-.hole .car-3{background-image: url(../images/cart-03.png);color: #fff;font-weight: 100;}
-.hole .car-4{background-image: url(../images/cart-04.png);}
-.hole .car-5{background-image: url(../images/cart-05.png);}
-.hole .car-6{background-image: url(../images/cart-06.png);}
-.hole .car-7{background-image: url(../images/cart-07.png);}
-.hole .car-8{background-image: url(../images/cart-08.png);}
-.hole .car-9{background-image: url(../images/cart-09.png);}
+.hole .car-0{background-image: url(../images/cart-01.png);}
+.hole .car-1{background-image: url(../images/cart-02.png);}
+.hole .car-2{background-image: url(../images/cart-03.png);color: #fff;font-weight: 100;}
+.hole .car-3{background-image: url(../images/cart-04.png);}
+.hole .car-4{background-image: url(../images/cart-05.png);}
+.hole .car-5{background-image: url(../images/cart-06.png);}
+.hole .car-6{background-image: url(../images/cart-07.png);}
+.hole .car-7{background-image: url(../images/cart-08.png);}
+.hole .car-8{background-image: url(../images/cart-09.png);}
 .car-info-wrap{width: 100%; display: flex;}
 .car-info{width: calc(100%/9);color: #fff;text-align: center;}
 .car-info .round{width: 15px;height: 15px;border-radius: 20px;    margin: 0 auto;}

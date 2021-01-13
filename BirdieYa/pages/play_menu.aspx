@@ -17,7 +17,7 @@
 
 
         <div class="content-ful">
-            <div class="right-top">
+            <div class="right-top" onclick="location.href='main.aspx'" style="cursor:pointer">
                 <img src="../images/gnb-1.png">
                 <p>HOME</p>
             </div>

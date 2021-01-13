@@ -62,3 +62,4 @@ F:\VisualPjt\BirdieYa\Socket\bin\Debug\Socket.dll
 F:\VisualPjt\BirdieYa\Socket\bin\Debug\Socket.pdb
 F:\VisualPjt\BirdieYa\Socket\obj\Debug\Socket.dll
 F:\VisualPjt\BirdieYa\Socket\obj\Debug\Socket.pdb
+F:\VisualPjt\BirdieYa\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache

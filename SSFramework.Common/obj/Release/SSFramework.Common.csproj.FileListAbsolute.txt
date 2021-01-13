@@ -1,0 +1,8 @@
+F:\VisualPjt\BirdieYa\SSFramework.Common\bin\Release\GSFramework.Common.dll
+F:\VisualPjt\BirdieYa\SSFramework.Common\bin\Release\GSFramework.Common.pdb
+F:\VisualPjt\BirdieYa\SSFramework.Common\bin\Release\GSFramework.Data.dll
+F:\VisualPjt\BirdieYa\SSFramework.Common\bin\Release\Oracle.ManagedDataAccess.dll
+F:\VisualPjt\BirdieYa\SSFramework.Common\bin\Release\GSFramework.Data.pdb
+F:\VisualPjt\BirdieYa\SSFramework.Common\obj\Release\SSFramework.Common.csprojResolveAssemblyReference.cache
+F:\VisualPjt\BirdieYa\SSFramework.Common\obj\Release\GSFramework.Common.dll
+F:\VisualPjt\BirdieYa\SSFramework.Common\obj\Release\GSFramework.Common.pdb

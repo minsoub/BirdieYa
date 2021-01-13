@@ -1,0 +1,11 @@
+F:\VisualPjt\BirdieYa\BirdieYa\obj\Release\BirdieYa.csprojResolveAssemblyReference.cache
+F:\VisualPjt\BirdieYa\BirdieYa\bin\BirdieYa.dll.config
+F:\VisualPjt\BirdieYa\BirdieYa\bin\BirdieYa.dll
+F:\VisualPjt\BirdieYa\BirdieYa\bin\BirdieYa.pdb
+F:\VisualPjt\BirdieYa\BirdieYa\bin\GSFramework.Common.dll
+F:\VisualPjt\BirdieYa\BirdieYa\bin\GSFramework.Data.dll
+F:\VisualPjt\BirdieYa\BirdieYa\bin\Socket.dll
+F:\VisualPjt\BirdieYa\BirdieYa\bin\GSFramework.Common.pdb
+F:\VisualPjt\BirdieYa\BirdieYa\bin\GSFramework.Data.pdb
+F:\VisualPjt\BirdieYa\BirdieYa\obj\Release\BirdieYa.dll
+F:\VisualPjt\BirdieYa\BirdieYa\obj\Release\BirdieYa.pdb

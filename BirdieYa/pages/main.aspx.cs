@@ -29,9 +29,24 @@ namespace BirdieYa.pages
 
         protected void InitControls()
         {
-            //if (comm.CheckSession()) { Response.Redirect("/login.aspx"); }
+            if (comm.CheckSession()) { Response.Redirect("../index.aspx"); }
 
             lblUser.Text = Session["USERID"] == null ? string.Empty : Session["USERID"].ToString();
         }
+        protected void btnLogout_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Session.Abandon();
+                Session.Clear();
+                Response.Cookies.Clear();
+                Response.Redirect("../index.aspx");
+            }
+            catch (Exception ex)
+            {
+                this.Alert(string.Format("로그인 에러 : {0}", ex.Message));
+            }
+        }
+        
     }
 }

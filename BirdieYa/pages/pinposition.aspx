@@ -64,6 +64,7 @@
             console.log("window load => " + $("#<%=iCourse.ClientID %>").val());
             if ($("#<%=hdnWidth.ClientID %>").val() == "0") {
                 $("#<%=hdnWidth.ClientID %>").val($(window).width());
+                <%= Page.GetPostBackEventReference(btnImage) %>
             }
             if ($("#<%=iCourse.ClientID %>").val() == "-1")
             {
@@ -90,7 +91,7 @@
         <asp:Button ID="btnSave" runat="server" onclick="btnSave_Click" Visible="false" />
     <!--헤더-->
     <nav id="header">
-        <a href="" class="left-btn"><img src="../images/arrow-left-btn.png" height="100%"></a>
+        <a href="course_menu.aspx" class="left-btn"><img src="../images/arrow-left-btn.png" height="100%"></a>
         <div class="logo">
             <h1>핀위치</h1>
         </div>
@@ -122,8 +123,9 @@
             </select>
     <!--홀선택-->
             <div id="hole" style="position:absolute; top:<%=hdnPosY.Value %>px; left:<%=hdnPosX.Value %>px;"><img src="../Images/pin.png" width="20px" height="20px" alt="홀 위치" /></div>
-            <asp:Image ID="imgHole" runat="server" onmousedown="javascript:GetPosition(event);" />
-
+            <div style="width:320px;">
+                <asp:Image ID="imgHole" runat="server" onmousedown="javascript:GetPosition(event);" style="height:280px;width:280px;border-width:0px;" />
+            </div>
             <!--img src="../images/pin-bg-img.png" class="" width="100%"  -->
 
             <a href="javascript:PinSave();" class="one-btn">핀위치 저장</a>
@@ -140,5 +142,12 @@
         <!--하단메뉴-->
 
     </form>
+
+    <script>
+        $('#menu1').attr('class', 'menu-gnb');
+        $('#menu2').attr('class', 'menu-gnb');
+        $('#menu3').attr('class', 'menu-gnb');
+        $('#menu4').attr('class', 'menu-gnb on');
+    </script>
 </body>
 </html>

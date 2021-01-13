@@ -20,7 +20,7 @@
     <section id="container" class="img_bg">
 
         <div class="content-ful">
-            <div class="right-top">
+            <div class="right-top" onclick="location.href='main.aspx'" style="cursor:pointer">
                 <img src="../images/gnb-1.png">
                 <p>HOME</p>
             </div>
@@ -32,7 +32,9 @@
                         <a href="pinposition.aspx">
                             <li>핀위치</li>
                         </a>
-
+                        <a href="pin_search.aspx">
+                            <li>핀위치 검색</li>
+                        </a>
                     </ul>
                 </div>
             </div>

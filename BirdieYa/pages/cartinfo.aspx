@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="cartinfo.aspx.cs" Inherits="BirdieYa.pages.cartinfo" %>
+﻿<%@ Page Language="C#" EnableEventValidation="false" AutoEventWireup="true" CodeBehind="cartinfo.aspx.cs" Inherits="BirdieYa.pages.cartinfo" %>
 
 <!DOCTYPE html>
 
@@ -10,12 +10,14 @@
     <link rel="stylesheet" type="text/css" href="../css/style.css">
     <link rel="stylesheet" type="text/css" href="../css/common.css">
     <link rel="stylesheet" type="text/css" href="../css/font.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
     <script type="text/javascript" language="javascript">
         function ChangeCourse(selCourse) {
             $("#<%=hdnSelCourse.ClientID %>").val(selCourse);
 
             SetCourse(selCourse);
+
+            console.log("ChangeCourse call=> " + selCourse);
 
             <%=Page.GetPostBackEventReference(btnSelCourse)%>;   
         }
@@ -31,34 +33,56 @@
 
         function SetSelDetail(vCartNo, vCartType, vTeamNo)
         {
-            PageMethods.GetCartDetail(vCartNo, vCartType, vTeamNo, SetCartDetail);
+            //string sCartNo, string sCartType, string sTeamNo
+            jQuery.ajax({
+                url: 'cartinfo.aspx/GetCartDetail',
+                type: "POST",
+                dataType: "json",
+                data: "{'sCartNo': '" + vCartNo + "', 'sCartType':'" + vCartType + "', 'sTeamNo':'" + vTeamNo + "'}",
+                contentType: "application/json; charset=utf-8",
+                success: function (data) {
+                    console.log(JSON.stringify(data));
+                    var jdata = data;
+                    console.log("Json.d=> " + jdata.d);
+                    //lblCartNo, lblCartType, lblStartTime, lblMember
+                    var arr = jdata.d;  // jdata.d.split(",");
+                    console.log("arr[0] => " + arr.cart_no);
+                    console.log("arr[1] => " + arr.member);
+                    SetCartDetail(arr);
+                }
+            });
+
+            //var data = PageMethods.GetCartDetail(vCartNo, vCartType, vTeamNo, SetCartDetail);
+
+            //console.log(data);
         }
 
         function SetCartDetail(result)
         {
-            $("#<%=lblCartNo.ClientID %>").val(result[0]);
-            $("#<%=lblCartType.ClientID %>").val(result[1]);
-            $("#<%=lblCaddie.ClientID %>").val(result[2]);
-            $("#<%=lblStartTime.ClientID %>").val(result[3]);
-            $("#<%=lblMember.ClientID %>").val(result[4]);
+            console.log(result.cart_no);
+            $("#<%=lblCartNo.ClientID %>").text(result.cart_no);
+            $("#<%=lblCartType.ClientID %>").text(result.cart_type);
+            $("#<%=lblCaddie.ClientID %>").text(result.caddie_name);
+            $("#<%=lblStartTime.ClientID %>").text(result.start_time);
+            $("#<%=lblMember.ClientID %>").text(result.member);
         }
 
-        $(function () {
-            //선택된 코스 정보 조회 표시
-            SetCourse($("#<%=hdnSelCourse.ClientID %>").val());
+        $(window).load(function () {
+            console.log("window load => " + $("#<%=hdnSelCourse.ClientID %>").val());
+            if ($("#<%=hdnSelCourse.ClientID %>").val() == "-1") {
+                ChangeCourse("1");
+            } else {
+                console.log("course => " + $("#<%=hdnSelCourse.ClientID %>").val());
+                SetCourse($("#<%=hdnSelCourse.ClientID %>").val());
+            }            
         });
     </script>
 </head>
 <body>
     <form id="form1" runat="server">
+        <asp:HiddenField ID="hdnSelCourse" runat="server" Value="-1" />
+        <asp:Button ID="btnSelCourse" runat="server" OnClick="btnSelCourse_Click" Visible="false"/>
         <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePageMethods="true"></asp:ScriptManager>
-
-        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
-            <ContentTemplate>
-                <asp:HiddenField ID="hdnSelCourse" runat="server" Value="1" />
-                <asp:Button ID="btnSelCourse" runat="server" OnClick="btnSelCourse_Click" />
-            </ContentTemplate>
-        </asp:UpdatePanel>
 
         <!--헤더-->
         <nav id="header">

@@ -86,6 +86,7 @@
     <Content Include="font\NotoSansKR-Thin.otf" />
     <Content Include="font\NotoSansKR-Thin.woff" />
     <Content Include="font\NotoSansKR-Thin.woff2" />
+    <None Include="Properties\PublishProfiles\BirdieYa.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -136,6 +137,7 @@
     <Content Include="pages\cartinfo.aspx" />
     <Content Include="pages\cartinfo.html" />
     <Content Include="pages\course_menu.aspx" />
+    <Content Include="pages\facility_menu.aspx" />
     <Content Include="pages\main.aspx" />
     <Content Include="pages\course_menu.html" />
     <Content Include="pages\facility_menu.html" />
@@ -143,6 +145,7 @@
     <Content Include="pages\main.html" />
     <Content Include="pages\pinposition.aspx" />
     <Content Include="pages\pinposition.html" />
+    <Content Include="pages\pin_search.aspx" />
     <Content Include="pages\pin_search.html" />
     <Content Include="pages\play_menu.aspx" />
     <Content Include="pages\play_menu.html" />
@@ -161,7 +164,6 @@
     <Compile Include="common\QueryReader.cs" />
     <Compile Include="pages\cartinfo.aspx.cs">
       <DependentUpon>cartinfo.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="pages\cartinfo.aspx.designer.cs">
       <DependentUpon>cartinfo.aspx</DependentUpon>
@@ -172,6 +174,13 @@
     </Compile>
     <Compile Include="pages\course_menu.aspx.designer.cs">
       <DependentUpon>course_menu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\facility_menu.aspx.cs">
+      <DependentUpon>facility_menu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\facility_menu.aspx.designer.cs">
+      <DependentUpon>facility_menu.aspx</DependentUpon>
     </Compile>
     <Compile Include="pages\main.aspx.cs">
       <DependentUpon>main.aspx</DependentUpon>
@@ -186,6 +195,13 @@
     </Compile>
     <Compile Include="pages\pinposition.aspx.designer.cs">
       <DependentUpon>pinposition.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\pin_search.aspx.cs">
+      <DependentUpon>pin_search.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\pin_search.aspx.designer.cs">
+      <DependentUpon>pin_search.aspx</DependentUpon>
     </Compile>
     <Compile Include="pages\play_menu.aspx.cs">
       <DependentUpon>play_menu.aspx</DependentUpon>

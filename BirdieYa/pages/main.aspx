@@ -43,11 +43,11 @@
                     <!--회원정보노출-->
                     <div class="left-box">
                         <p><strong><asp:Label ID="lblUser" runat="server" Text="Label"></asp:Label></strong>님<br>안녕하세요!</p>
-                        <button class="main-logout">LOGOUT</button>
+                        <asp:Button ID="btnLogout" runat="server" Text="LOGOUT" CssClass="main-logout" OnClick="btnLogout_Click" />
                     </div>
                     <!--회원정보노출-->
                     <div class="right-box menu-btn-box">
-                        <a href="javascript:alert('준비중입니다.')">
+                        <a href="facility_menu.aspx">
                             <div class="up-box">
                                 <img src="../images/main-fac.png">
                                 <p>시설관제</p>
