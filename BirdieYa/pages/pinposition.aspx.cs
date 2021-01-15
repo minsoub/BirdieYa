@@ -94,16 +94,16 @@ namespace BirdieYa.pages
 
                 double dWidth = Convert.ToInt32(hdnWidth.Value == string.Empty ? "0" : hdnWidth.Value);
 
-                int iXPos = Convert.ToInt32(iOriginXPos * Math.Round((dWidth / 280) - 0.04, 1));
-                int iYPos = Convert.ToInt32(iOriginYPos * Math.Round((dWidth / 280) - 0.04, 1));
+                int iXPos = Convert.ToInt32(iOriginXPos); // * Math.Round((dWidth / 280) - 0.04, 1));
+                int iYPos = Convert.ToInt32(iOriginYPos); //  * Math.Round((dWidth / 280) - 0.04, 1));
 
-                hdnPosX.Value = (iXPos - 0).ToString();
-                hdnPosY.Value = (iYPos + 110).ToString();
+                hdnPosX.Value = (iXPos +10).ToString();
+                hdnPosY.Value = (iYPos + 175).ToString();
             }
             else
             {
-                hdnPosX.Value = "0";
-                hdnPosY.Value = "110";
+                hdnPosX.Value = "10";
+                hdnPosY.Value = "175";
             }
         }
 

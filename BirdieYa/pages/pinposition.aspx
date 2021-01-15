@@ -81,8 +81,8 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <asp:HiddenField ID="hdnPosX" runat="server" Value="0" />
-        <asp:HiddenField ID="hdnPosY" runat="server" Value="110" />
+        <asp:HiddenField ID="hdnPosX" runat="server" Value="10" />
+        <asp:HiddenField ID="hdnPosY" runat="server" Value="175" />
         <asp:HiddenField ID="hdnWidth" runat="server" Value="0" />
         <asp:TextBox ID="iCourse" runat="server" Value="A" Style="display:none;"  AutoPostBack="true"></asp:TextBox>
         <asp:TextBox ID="iHole" runat="server" Value="1" Style="display:none;" AutoPostBack="true" />
