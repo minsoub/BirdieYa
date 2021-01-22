@@ -103,25 +103,8 @@
             </div>
             <!--코스선택-->
             <div class="content">
-                <div class="cart-hole-wrap">
-                    <div class="hole-wrap">
-                        <div class="hole"><asp:Literal ID="ltrHole1" runat="server"></asp:Literal></div>
-                        <div class="hole"><asp:Literal ID="ltrHole2" runat="server"></asp:Literal></div>
-                        <div class="hole"><asp:Literal ID="ltrHole3" runat="server"></asp:Literal></div>
-                    </div>
-                    <div class="hole-wrap">
-                        <div class="hole"><asp:Literal ID="ltrHole4" runat="server"></asp:Literal></div>
-                        <div class="hole"><asp:Literal ID="ltrHole5" runat="server"></asp:Literal></div>
-                        <div class="hole"><asp:Literal ID="ltrHole6" runat="server"></asp:Literal></div>
-                    </div>
-                    <div class="hole-wrap">
-                        <div class="hole"><asp:Literal ID="ltrHole7" runat="server"></asp:Literal></div>
-                        <div class="hole"><asp:Literal ID="ltrHole8" runat="server"></asp:Literal></div>
-                        <div class="hole"><asp:Literal ID="ltrHole9" runat="server"></asp:Literal></div>
-                    </div>
-                </div>
 
-                <!-- 정보컬러설명-->
+<!-- 정보컬러설명-->
                 <div class="car-info-wrap">
                     <div class="car-info">
                         <div class="car-round-1 round"></div>
@@ -161,6 +144,26 @@
                     </div>
                 </div>
                 <!-- 정보컬러설명-->
+
+                <div class="cart-hole-wrap">
+                    <div class="hole-wrap">
+                        <div class="hole"><asp:Literal ID="ltrHole1" runat="server"></asp:Literal></div>
+                        <div class="hole"><asp:Literal ID="ltrHole2" runat="server"></asp:Literal></div>
+                        <div class="hole"><asp:Literal ID="ltrHole3" runat="server"></asp:Literal></div>
+                    </div>
+                    <div class="hole-wrap">
+                        <div class="hole"><asp:Literal ID="ltrHole4" runat="server"></asp:Literal></div>
+                        <div class="hole"><asp:Literal ID="ltrHole5" runat="server"></asp:Literal></div>
+                        <div class="hole"><asp:Literal ID="ltrHole6" runat="server"></asp:Literal></div>
+                    </div>
+                    <div class="hole-wrap">
+                        <div class="hole"><asp:Literal ID="ltrHole7" runat="server"></asp:Literal></div>
+                        <div class="hole"><asp:Literal ID="ltrHole8" runat="server"></asp:Literal></div>
+                        <div class="hole"><asp:Literal ID="ltrHole9" runat="server"></asp:Literal></div>
+                    </div>
+                </div>
+
+                
             </div>
             <!--카트 클릭시 상세내용-->
             <div class="info-box dis-n">

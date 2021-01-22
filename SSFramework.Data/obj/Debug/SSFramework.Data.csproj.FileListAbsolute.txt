@@ -59,3 +59,9 @@ F:\VisualPjt\BirdieYa\SSFramework.Data\obj\Debug\GSFramework.Data.dll
 F:\VisualPjt\BirdieYa\SSFramework.Data\obj\Debug\GSFramework.Data.pdb
 F:\VisualPjt\BirdieYa\SSFramework.Data\bin\Debug\Oracle.ManagedDataAccess.dll
 F:\VisualPjt\BirdieYa\SSFramework.Data\obj\Debug\SSFramework.Data.csprojResolveAssemblyReference.cache
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Data\bin\Debug\GSFramework.Data.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Data\bin\Debug\GSFramework.Data.pdb
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Data\obj\Debug\SSFramework.Data.csprojResolveAssemblyReference.cache
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Data\obj\Debug\GSFramework.Data.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Data\obj\Debug\GSFramework.Data.pdb

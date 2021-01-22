@@ -34,3 +34,15 @@ F:\VisualPjt\BirdieYa\BirdieYa\bin\GSFramework.Data.pdb
 F:\VisualPjt\BirdieYa\BirdieYa\obj\Debug\BirdieYa.csprojResolveAssemblyReference.cache
 F:\VisualPjt\BirdieYa\BirdieYa\obj\Debug\BirdieYa.dll
 F:\VisualPjt\BirdieYa\BirdieYa\obj\Debug\BirdieYa.pdb
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\bin\BirdieYa.dll.config
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\bin\BirdieYa.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\bin\BirdieYa.pdb
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\bin\GSFramework.Common.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\bin\GSFramework.Data.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\bin\Socket.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\bin\Socket.pdb
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\bin\GSFramework.Common.pdb
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\bin\GSFramework.Data.pdb
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\obj\Debug\BirdieYa.csprojResolveAssemblyReference.cache
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\obj\Debug\BirdieYa.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\BirdieYa\obj\Debug\BirdieYa.pdb

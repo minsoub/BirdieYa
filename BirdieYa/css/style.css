@@ -42,22 +42,25 @@
 
 
 /*카트관제*/
-.hole-wrap{ margin:65px 0; height: 35px;background-color: #121212; padding: 0 5px 10px 5px; border-radius: 20px;display: flex;width: calc(100%/3);}
-.hole-wrap .hole{width: calc(100%/3);display: inline-block;height: 35px;font-weight: 800;}
+.hole-wrap{ margin:80px 0 0 0; height:25px;background-color: #121212; padding: 0; border-radius: 20px;display: flex;}
+.hole-wrap .hole{
+/*    width: calc(100%/3);*/
+    display: inline-block;height: 35px;font-weight: 800;}
 .hole .right-hole{float: right;}
 .hole .mid-hole{margin: 0 auto;}
 .hole .left-hole{float:left; }
-.cart-hole-wrap{margin-top: 80px;display: flex;}
-.hole .par-3{background-image: url(../images/par3-hole.png);background-size:cover; width:69px; height: 35px;line-height: 2.8;text-align: center;position: relative;}
-.hole .par-4{background-image: url(../images/par4-hole.png);background-size:cover;width: 89px; height: 35px;line-height: 2.8;text-align: center;position: relative;}
-.hole .par-5{background-image: url(../images/par5-hole.png);background-size:cover;width:116px; height:  35px;line-height: 2.8;text-align: center;position: relative;}
+.cart-hole-wrap{display: flex;}
+.hole .par-3, .hole .par-4, .hole .par-5{background:#96e054 url(../images/hole-img.png) no-repeat right center;    background-size: contain;}
+.hole .par-3{width:69px;height: 24px;text-align: center;position: relative;border-radius:20px;margin-right: 5px;}
+.hole .par-4{width: 89px;height: 24px;text-align: center;position: relative;border-radius:20px;margin-right: 5px;}
+.hole .par-5{width:116px; height: 24px;text-align: center;position: relative;border-radius:20px;margin-right: 5px;}
 .car-wrap{position: absolute;bottom: 30px;width: 100%;}
 .car-wrap .car-first, .car-wrap .car-mid-1, .car-wrap .car-mid-2,.car-wrap .car-last{display: inline-block;width: 20px;position: absolute;  bottom: 0;}
 .car-wrap .car-first{left: 0;}
-.car-wrap .car-last{right: 0;}
-.par-4 .car-wrap .car-mid-1{left: 33px;}
-.par-5 .car-wrap .car-mid-1{left: 33px;}
-.par-5 .car-wrap .car-mid-2{left: 65px;}
+.car-wrap .car-last{right: 8px;}
+.par-4 .car-wrap .car-mid-1{left: 35%;}
+.par-5 .car-wrap .car-mid-1{left: 37%;}
+.par-5 .car-wrap .car-mid-2{left: 37%;}
 .hole .car-no{ background-size: cover; width: 23px;height: 9px;display:block; text-align: center; padding: 2px 2px 5px 0;line-height: 1;font-size: 11px;margin: 1px;}
 .hole .car-0{background-image: url(../images/cart-01.png);}
 .hole .car-1{background-image: url(../images/cart-02.png);}
@@ -68,7 +71,7 @@
 .hole .car-6{background-image: url(../images/cart-07.png);}
 .hole .car-7{background-image: url(../images/cart-08.png);}
 .hole .car-8{background-image: url(../images/cart-09.png);}
-.car-info-wrap{width: 100%; display: flex;}
+.car-info-wrap{width: 100%; display: flex;    margin-top: 10px;}
 .car-info{width: calc(100%/9);color: #fff;text-align: center;}
 .car-info .round{width: 15px;height: 15px;border-radius: 20px;    margin: 0 auto;}
 .car-info p{margin: 5px 0;font-size: 0.8rem;font-weight: 200;}
@@ -86,8 +89,16 @@
 .info-box .info-b-tit{background-color: #fff;width: 100%;font-size: 1.3rem;padding: 20px 0;font-weight: 600;}
 .info-box table{color: #fff;border-collapse: collapse;}
 .info-box table td{border: 1px solid #777;padding: 20px 0;background-color: #212121;}
+
+/*가로일때 가로 스크롤 생기기*/
+@media (min-width: 600px){
+.cart-hole-wrap{overflow-x: scroll;-ms-overflow-style: none; /* IE and Edge */ scrollbar-width: none; /* Firefox */}
+.cart-hole-wrap::-webkit-scrollbar { width: 0 !important }
+}
+
+
 /*세로일때 홀 나누기*/
-@media (min-width: 250px) and (max-width: 1050px){
+@media (min-width: 250px) and (max-width: 599px){
     .hole-wrap{width: 100%;}    
     .cart-hole-wrap{display: block;}    
 }

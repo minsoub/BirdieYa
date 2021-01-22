@@ -63,3 +63,8 @@ F:\VisualPjt\BirdieYa\Socket\bin\Debug\Socket.pdb
 F:\VisualPjt\BirdieYa\Socket\obj\Debug\Socket.dll
 F:\VisualPjt\BirdieYa\Socket\obj\Debug\Socket.pdb
 F:\VisualPjt\BirdieYa\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+F:\VisualPjt\01. 사우스링스\BirdieYa\Socket\bin\Debug\Socket.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\Socket\bin\Debug\Socket.pdb
+F:\VisualPjt\01. 사우스링스\BirdieYa\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+F:\VisualPjt\01. 사우스링스\BirdieYa\Socket\obj\Debug\Socket.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\Socket\obj\Debug\Socket.pdb

@@ -83,3 +83,11 @@ F:\VisualPjt\BirdieYa\SSFramework.Common\obj\Debug\SSFramework.Common.csprojReso
 F:\VisualPjt\BirdieYa\SSFramework.Common\obj\Debug\GSFramework.Common.dll
 F:\VisualPjt\BirdieYa\SSFramework.Common\obj\Debug\GSFramework.Common.pdb
 F:\VisualPjt\BirdieYa\SSFramework.Common\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Common\bin\Debug\GSFramework.Common.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Common\bin\Debug\GSFramework.Common.pdb
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Common\bin\Debug\GSFramework.Data.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Common\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Common\bin\Debug\GSFramework.Data.pdb
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Common\obj\Debug\SSFramework.Common.csprojResolveAssemblyReference.cache
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Common\obj\Debug\GSFramework.Common.dll
+F:\VisualPjt\01. 사우스링스\BirdieYa\SSFramework.Common\obj\Debug\GSFramework.Common.pdb
